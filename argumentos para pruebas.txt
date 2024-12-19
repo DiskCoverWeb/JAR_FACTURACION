@@ -1,0 +1,16 @@
+parametros para enviar a comprobar si esta o no autorizada
+
+2
+0501202301172221450700120010010000000011234567810
+C:\xampp\htdocs\facturacion\php1\comprobantes\entidades\entidad_7\CE7\Autorizados
+C:\xampp\htdocs\facturacion\php1\comprobantes\entidades\entidad_7\CE7\No_autorizados
+https://celcer.sri.gob.ec/comprobantes-electronicos-ws/AutorizacionComprobantesOffline?wsdl
+
+
+parametros para enviar a autorizar
+1
+1611202401172221450700110010010000000141234567811
+C:\xampp\htdocs\facturacion\php1\comprobantes\entidades\entidad_7\CE7\FACTURAS\Firmados
+C:\xampp\htdocs\facturacion\php1\comprobantes\entidades\entidad_7\CE7\FACTURAS\Enviados
+C:\xampp\htdocs\facturacion\php1\comprobantes\entidades\entidad_7\CE7\FACTURAS\Rechazados
+https://celcer.sri.gob.ec/comprobantes-electronicos-ws/RecepcionComprobantesOffline?wsdl
